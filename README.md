@@ -1,6 +1,5 @@
 <h2 align="center"> 🛠️ Freegen Fix 🛠️ </h2> 
 
-#
 
 <h3 align="center">
 💻 Version épurée de Freegen avec exe.io, prête à l'emploi. Importez votre jeton exe.io, profitez-en. Base de données allégée. Téléversez et appréciez. Merci à Unfair ! 💻/a> 
